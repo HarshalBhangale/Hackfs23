@@ -5,7 +5,8 @@
 
 The project aims to revolutionize dataset enhancement and collaboration by providing a platform where users can upload their datasets and scripts for improvement, transformation, and filtering. Leveraging cutting-edge technologies, including IPFS, Filecoin, Bacalhau,ENS, Huddle, and more, the project enables seamless cloud-based computation, decentralized storage, real-time collaboration, and secure transactions.
 
-#How it works ??
+##How it works ??
+
 Dataset Upload: Users can upload their datasets and accompanying scripts to the platform.
 
 Cloud Computation with Bacalhau: The uploaded datasets and scripts are processed using Bacalhau, a cloud computing infrastructure integrated with IPFS. Bacalhau leverages the power of IPFS to enable efficient and scalable computation on the cloud, overcoming hardware limitations.
@@ -16,7 +17,6 @@ Real-time Collaboration with Huddle: Huddle, a collaboration tool, facilitates s
 
 Secure Transactions with Wallet: The integration of a wallet component enables users to securely manage their digital assets, such as cryptocurrencies or tokens. It allows for secure transactions within the app ecosystem, including buying or selling datasets, participating in data marketplace activities, and transferring digital assets.
 
-NFT Integration: The project incorporates NFTs (Non-Fungible Tokens) to enable the creation, ownership, and trading of unique digital assets within the app. This allows for the tokenization and monetization of datasets and intellectual property.
 
 
 ## Project Features
