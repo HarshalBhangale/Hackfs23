@@ -1,43 +1,49 @@
-# Nexth
+## Presentation link: https://drive.google.com/file/d/1LUcCYjMos7b0rDmvSMYsxDhM-JbiJtDQ/view?usp=sharing
+# Project Name : DatSat4A!
 
-A Next.js + Ethereum starter kit to quickly ship Web3 Apps ⚡
+## Overview
 
-![Nexth Readme Image](./readme.png)
+The project aims to revolutionize dataset enhancement and collaboration by providing a platform where users can upload their datasets and scripts for improvement, transformation, and filtering. Leveraging cutting-edge technologies, including IPFS, Filecoin, Bacalhau,ENS, Huddle, and more, the project enables seamless cloud-based computation, decentralized storage, real-time collaboration, and secure transactions.
 
-## Getting Started 👀
+#How it works ??
+Dataset Upload: Users can upload their datasets and accompanying scripts to the platform.
 
-Check-out the [example pages](./src/pages/examples/) or [live demo](https://nexth.vercel.app/) to see how you can use this starter kit.
+Cloud Computation with Bacalhau: The uploaded datasets and scripts are processed using Bacalhau, a cloud computing infrastructure integrated with IPFS. Bacalhau leverages the power of IPFS to enable efficient and scalable computation on the cloud, overcoming hardware limitations.
 
-## Features ✅
+Decentralized Storage with Filecoin/IPFS : The processed datasets and the resulting enhanced data are securely stored on the Filecoin network, which provides decentralized and distributed storage. Filecoin ensures data redundancy, availability, and resilience.
 
-- [Next.js](https://nextjs.org/docs)
-- [Chakra UI](https://chakra-ui.com/)
-- [viem](https://viem.sh/)
-- [wagmi](https://wagmi.sh/)
-- [Web3Modal SDK from WalletConnect](https://docs.walletconnect.com/)
-- [Sign-In with Ethereum](https://www.login.xyz/)
-- [usehooks-ts](https://usehooks-ts.com/)
-- [next-SEO](https://github.com/garmeeh/next-seo)
+Real-time Collaboration with Huddle: Huddle, a collaboration tool, facilitates seamless communication and collaboration among users. It provides real-time notifications on dataset updates, computation progress, and critical milestones, ensuring effective teamwork.
 
-## Developer Experience 🧰
+Secure Transactions with Wallet: The integration of a wallet component enables users to securely manage their digital assets, such as cryptocurrencies or tokens. It allows for secure transactions within the app ecosystem, including buying or selling datasets, participating in data marketplace activities, and transferring digital assets.
 
-- [TypeScript](https://www.typescriptlang.org/)
-- [eslint](https://eslint.org/)
-- [prettier](https://prettier.io/)
-- [Husky](https://typicode.github.io/husky/)
+NFT Integration: The project incorporates NFTs (Non-Fungible Tokens) to enable the creation, ownership, and trading of unique digital assets within the app. This allows for the tokenization and monetization of datasets and intellectual property.
 
-## Development 🛠️
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Project Features
 
-## Deploy on Vercel 🚢
+- **Dataset Enhancement:** Users can upload datasets and scripts to enhance, transform, and filter their data, unlocking its true potential.
+- **Cloud Computation with Bacalhau:** The integration of Bacalhau and IPFS enables efficient cloud-based computation, overcoming hardware limitations.
+- **Decentralized Storage with Filecoin:** By integrating Filecoin, the project ensures secure and distributed storage of datasets, enhancing resilience and accessibility.
+- **Real-time Collaboration with Huddle:** Huddle facilitates seamless communication, real-time notifications, and collaborative messaging, fostering effective teamwork.
+- **Secure Transactions with Wallet:** The wallet integration enables secure management of digital assets and transactions within the app ecosystem.
+- **NFT Integration:** NFTs enable tokenization and monetization of datasets and intellectual property within the app.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwslyvh%2Fnexth)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=nexth&filter=next.js&utm_source=nexth&utm_campaign=nexth-readme) from the creators of Next.js.
+## Installation and Setup
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone the github repo
+2. install dependencies
+3. execute npm run dev
+
+
+
+## License
+
+This project is licensed under the [MIT License](link-to-license-file). Please see the `LICENSE` file for more information.
+
+## Contact
+
+For any inquiries or feedback, please reach out to our team at buddyharshal2751@gmail.com /datsat4aiplatforms@gmail.com
+For joining the project , feel free to connect with us .. 
+Thank you for your interest and support for our project!
+
